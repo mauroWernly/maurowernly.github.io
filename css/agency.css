@@ -119,12 +119,12 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color: #FFE37E;
+  color: #DEB626;
   font-family: 'PT Sans', sans-serif;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #DEB626;
+  color: #FFE37E;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
