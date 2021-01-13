@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{205:function(e,t,n){var l=n(0);function o(e){return l.createElement("svg",e,l.createElement("path",{fill:"#636462",fillRule:"evenodd",d:"M5.98 1.757L1.218 6.52l-.63.632 1.26 1.262.633-.63 4.747-4.748V8.16h1.748V.01H.823v1.747H5.98z"}))}o.defaultProps={width:"9",height:"9",viewBox:"0 0 9 9"},e.exports=o,o.default=o}}]);
+//# sourceMappingURL=assets-svg-icons-link-dark-svg-6e341bea06af6610153a.js.map

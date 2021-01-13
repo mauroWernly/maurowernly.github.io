@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{210:function(e,t,l){var n=l(0);function a(e){return n.createElement("svg",e,n.createElement("g",{fill:"none",fillRule:"evenodd"},[n.createElement("path",{fill:"#FFF",d:"M0 0h50v50H0z",opacity:".005",key:0}),n.createElement("path",{fill:"#4A4A4A",d:"M18.57 34.612l2.624 2.623L33.43 25 21.193 12.765l-2.623 2.623L28.183 25l-9.61 9.612z",key:1})]))}a.defaultProps={width:"50",height:"50",viewBox:"0 0 50 50"},e.exports=a,a.default=a}}]);
+//# sourceMappingURL=assets-svg-icons-next-svg-acee771f2087f352a231.js.map
