@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{208:function(e,t,n){var l=n(0);function o(e){return l.createElement("svg",e,l.createElement("path",{fill:"#636462",fillRule:"evenodd",d:"M0 11.012l1.236 1.236L7 6.484 1.236.72 0 1.955l4.528 4.53L0 11.01z"}))}o.defaultProps={width:"7",height:"13",viewBox:"0 0 7 13"},e.exports=o,o.default=o}}]);
-//# sourceMappingURL=assets-svg-icons-listitem-dark-svg-a04f1cd9e8d524bb2251.js.map
